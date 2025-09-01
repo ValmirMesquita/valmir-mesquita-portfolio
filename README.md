@@ -6,16 +6,70 @@ experiência em **Sistemas de Segurança eletrônica,  automação residencial/i
 
 ---
 
-##  Formação Acadêmica
+Valmir Linhares de Sousa de Mesquita 
+E-mail:valmirsmesquita@gmail.com 
+  
+## FORMAÇÃO  
+2° Grau Completo Escola Cenecista Domingos Mesquita Ano em 1998.  
 
--  **Bacharel em Ciências da Computação**   
--  **Técnico em Desenvolvimento de Sistemas** – SENAC *(---------)*  
--  **Técnico em Mecatrônica** – Netcom Treinamentos *(Registrado no CFT)*
--  **Residência Profissional em Sistemas Embarcados IFMA – MA Monte Castelo
----
-##  Cursos e Certificações Técnicas
+## FORMAÇÃO 
+Técnico em Mecatrônica com registro no CFT 
+Netcom Treinamentos e Soluções Tecnológicas Ltda. 
 
-### TREINAMENTOS COM CERTIFICADOS :
+## FORMAÇÃO 
+Técnico em Desenvolvimento de Sistemas (Em andamento)
+SENAC
+
+## FORMAÇÃO 
+Residência Profissional em Sistemas Embarcados (Em andamento)
+IFMA – MA Monte Castelo
+
+## FORMAÇÃO  
+Superior Bacharel em Ciências da Computação (Faculdade Estácio)
+
+## EXPERIÊNCIA PROFISSIONAL 
+
+NORSEGEL ELETRÔNICA
+Cargo: Tec. Segurança Eletrônica
+  
+ATLÂNTICA ELETRÔNICA: 
+Cargo: Tec. Segurança Eletrônica 
+ 
+COLÉGIO MARISTA: 
+Cargo: Auxiliar de Gráfico design. 
+Principais atividades: Desenvolvimento de banners, logos, panfletos, livretos, Alimentação do site.  
+ 
+SETIX BRASIL:
+Cargo: Técnico em eletrônica.
+Principais atividades: Manutenção e montagem de equipamentos de segurança, Sistemas de 
+Alarme, Circuito fechado de tv e IP, Fechaduras biométrica inst. e configuração, Fechadura 
+Eletromagnética SAA (instalação e manutenção), Configuração de sistemas em rede, Portas 
+giratórias detectores de metal, Manutenções em cofres, Fechaduras de retardo Pentasis via 
+web inst. Configuração, Geradores de neblina de segurança instalação e configuração em 
+rede.
+
+ACERT Assistência Técnica: 
+Cargo: Técnico em eletrônica.
+Principais atividades: Manutenção e montagem de equipamentos de segurança, Sistemas de 
+Alarme, Circuito fechado de tv e IP, Fechaduras biométrica inst. e configuração, Fechadura 
+Eletromagnética SAA (instalação e manutenção), Configuração de sistemas em rede, Portas 
+giratórias detectores de metal, Manutenções em cofres, Fechaduras de retardo Pentasis via 
+web inst. Configuração, Geradores de neblina de segurança instalação e configuração em 
+rede.
+
+TREINAMENTO 
+Treinamento Técnico Impacta Treinamento Técnico de Soluções de Controle de Acesso 
+Corporativo Acessório Intelbras – Diferenciais, benefícios e aplicações Treinamento Comercial 
+CFTV IP Treinamento Técnico CFTV IP Treinamento Comercial de Multitecnologia em CFTV 
+Treinamento Técnico de Multe tecnologia em CFTV Iniciantes em Telecom Treinamento 
+Técnico Comercial SGA 4000 Treinamento Comercial de Portfólio de CFTV IP Treinamento 
+Online de Redes para CFTV IP Certificação em Rádios Intelbras para CFTV e Integradores 
+Treinamento Prático Hot spot 300 Treinamento prático AP 300 Treinamento Técnico de 
+Produtos de Redes Com Fio, Treinamento Técnico de Produtos de Redes Outdoor, Certificação Comercial ITS - 
+Intelbras Traffic System Iniciantes em Redes Treinamento Manutenção Interfone Residencial - Módulo III.
+ 
+TREINAMENTOS COM CERTIFICADOS 
+
 1.	LARAVEL: CRIANDO UMA APLICAÇÃO COM MVC 
 2.	LARAVEL PARTE 1: PRODUTIVIDADE NO DESENVOLVIMENTO WEB 
 3.	PHP: CONCEITOS, LIDANDO COM DADOS, LOOPS E MAIS 
@@ -36,69 +90,30 @@ experiência em **Sistemas de Segurança eletrônica,  automação residencial/i
 18.	GERÊNCIA, ORGANIZAÇÃO E RECUPERAÇÃO DAS INFORMAÇÕES
 19.	PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO
 20.	PROGRAMAÇÃO PARA INTERNET
+21.	PRIMEIROS PASSOS COM FREERTOS ESP32
+ 
+ 
+EXPERIÊNCIA PROFISSIONAL. 
+Montagem e manutenção de computadores, Formatação e Instalação de Sistemas 
+Operacionais, Backups, Manutenção de Micros, Redes de computadores, Cabeamento 
+Lógicos, Rede Wireless, Implantação de pontos lógicos, Montagem de Rack de Rede, 
+Compartilhamentos, Automação residencial e industrial. 
 
+Desenvolvimento de projetos de segurança eletrônica e placas de circuitos eletrônicos para 
+automação. 
+ 
+Computação Gráfica: Corel Draw, Photoshop, Ilustrator, Auto cad,   
+Windows, Word, Excel, Access, PowerPoint.
+ 
+Web Designer: Visual Studio code, Anacondas Jupyter, Photoshop, Ilustrador, Desenvolvimento de sites wordpress, Python, PHP, HTML, Java Script, CSS, Banco de dados. 
+ 
 
-### Redes e Segurança:
-- Redes para CFTV IP  
-- CFTV IP (Técnico e Comercial)  
-- Multitecnologia em CFTV  
-- Controle de Acesso Intelbras  
-- SGA 4000  
-- ITS - Intelbras Traffic System  
-- Redes Outdoor e Hotspot  
-- Certificação em Rádios Intelbras  
-- Manutenção Interfone Residencial  
-
----
-
-##  Habilidades Técnicas
-
-- **Sistemas e Manutenção**: Montagem e manutenção de computadores, instalação de Formatação e Instalação de Sistemas Operacionais.  
-- **Redes**: Cabeamento lógico, wireless, configuração de redes locais, montagem de racks  
-- **Segurança Eletrônica**: CFTV, alarmes, fechaduras biométricas e eletromagnéticas, cofres, neblina de segurança  
-- **Programação**: PHP, Python, Laravel, Django, JavaScript, HTML/CSS  
-- **Banco de Dados**: MySQL, SQL Server  
-- **Design Gráfico**: CorelDraw, Photoshop, Illustrator, AutoCAD  
-- **Ferramentas**: VS Code, Jupyter, WordPress, Power BI, Figma, Pycharm, InteliJ  
-
----
-
-##  Experiência Profissional
-
-###  ACERT Assistência Técnica  
-**Cargo**: Técnico em Eletrônica  
-**Atividades**: : Manutenção e montagem de equipamentos de segurança, Sistemas de 
-Alarme, Circuito fechado de tv e IP, Fechaduras biométrica inst. e configuração, Fechadura 
-Eletromagnética SAA (instalação e manutenção), Configuração de sistemas em rede, Portas 
-giratórias detectores de metal, Manutenções em cofres, Fechaduras de retardo Pentasis via 
-web inst. Configuração, Geradores de neblina de segurança instalação e configuração em 
-rede.
-
-###  SETIX Brasil  
-**Cargo**: Técnico em Eletrônica  
-**Atividades**: Semelhantes à função na ACERT com foco em configuração e montagem de sistemas de segurança.
-
-###  NORSEGEL / ATLÂNTICA ELETRÔNICA  
-**Cargo**: Técnico em Segurança Eletrônica  
-**Atividades**: Instalação e manutenção de equipamentos de segurança.
-
-### Colégio Marista  
-**Cargo**: Auxiliar de Design Gráfico  
-**Atividades**: Desenvolvimento de banners, logos, livretos e alimentação de site.
-
-##  Projetos e Automação
-
-- Desenvolvimento de **placas eletrônicas para automação**  
-- Projetos de **segurança eletrônica integrada a redes e internet**  
-- **Automação residencial e industrial** com integração de sensores e fechaduras dentre outros didpositivos
-
----
-
-##  Habilitação
-
-- Categoria B
-
----
+Carteira de habilitação: (B)  
+Prezado Sr. (a): Gostaria de apresentar minha candidatura para o cargo. Acredito que 
+apresento as qualificações necessárias para exercer a função de forma adequada e, desde já, 
+coloco-me à disposição para uma entrevista, objetivando o detalhamento das informações 
+profissionais.  
+ 
 
 ##  Contato
 
