@@ -110,7 +110,7 @@ rede.
 ##  Contato
 
 - **Email**: valmirsmesquita@gmail.com  
-- **LinkedIn**: *([Adicione aqui depois](https://www.linkedin.com/in/valmir-linhares-de-sousa-de-mesquita-3b2b7426b/))*  
+- **LinkedIn**: *(https://www.linkedin.com/in/valmir-linhares-de-sousa-de-mesquita-3b2b7426b/)*  
 - **GitHub**: [github.com/seu-usuario]([https://github.com/](https://github.com/ValmirMesquita)) 
 
 ---
