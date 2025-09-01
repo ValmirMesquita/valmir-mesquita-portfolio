@@ -86,13 +86,6 @@ rede.
 **Cargo**: Auxiliar de Design Gráfico  
 **Atividades**: Desenvolvimento de banners, logos, livretos e alimentação de site.
 
-### MARTINS E REIS – Estágio (3 meses)  
-**Local**: CISP / Polícia Civil  
-**Cargo**: Continuo  
-**Atividades**: Continuo.
-
----
-
 ##  Projetos e Automação
 
 - Desenvolvimento de **placas eletrônicas para automação**  
