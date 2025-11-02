@@ -1,8 +1,10 @@
 #  Valmir Linhares de Sousa de Mesquita
 
 ##  Sobre Mim
-Sou Técnico em Mecatrônica, estudante de Desenvolvimento de Sistemas Java SENAC, Bacharel em Ciências da Computação. Tenho vasta 
+Sou Técnico em Mecatrônica, Bacharel em Ciências da Computação. Tenho vasta 
 experiência em **Sistemas de Segurança eletrônica,  automação residencial/industrial, e manutenção de equipamentos de segurança.
+
+Ciências da Computação |Téc. Mecatrônica | Sist. Embarcados IFMA | Python | Mysql | C | HTML | CSS | Java Script | GIT/GITHUB| Linux Basico | Redes Infra | Téc. Seg. Eletrônica.
 
 ---
 
